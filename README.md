@@ -1,7 +1,5 @@
 # Automatically Blocking Port 22 From Public Exposure
 
-"C:\Users\Anthony\Downloads\Cloudairy App – Create, Collaborate & Design with AI.html"
-
 This project implements a fully automated compliance workflow that enforces a **“No Public SSH”** policy by preventing Security Groups from exposing **port 22 (SSH)** to the internet.
 
 Using **AWS Config**, the workflow continuously monitors for violations and automatically remediates them, no manual intervention required.
