@@ -41,7 +41,7 @@ Using **AWS Config**, the workflow continuously monitors for violations and auto
 
 ## ⭐ Why This Matters
 
-This automation ensures that the **“No Public SSH”** security policy isn’t just written in documentation—it’s **actively enforced 24/7 across the environment**.
+This automation ensures that the **“No Public SSH”** security policy isn’t just written in documentation, it’s **actively enforced 24/7 across the environment**.
 
 - No configuration drift  
 - No exposed ports  
