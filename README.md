@@ -2,7 +2,7 @@
 
 This project implements a fully automated compliance workflow that enforces a **“No Public SSH”** policy by preventing Security Groups from exposing **port 22 (SSH)** to the internet.
 
-Using **AWS Config**, the workflow continuously monitors for violations and automatically remediates them—no manual intervention required.
+Using **AWS Config**, the workflow continuously monitors for violations and automatically remediates them, no manual intervention required.
 
 ---
 
